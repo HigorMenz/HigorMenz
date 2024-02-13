@@ -20,7 +20,7 @@
   <a href="mailto:higormenzinger1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/HigorMenz" target="_blank">
+  <a href="https://linkedin.com/in/Higor-Menzinger" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
