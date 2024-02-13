@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate software developer from Brasil</h3>
 
-<br/>
+<hr/>
 
 <div align="center">
  
@@ -35,8 +35,6 @@
 </div>
 
 <br/>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
