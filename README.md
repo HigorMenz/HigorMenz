@@ -1,3 +1,4 @@
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HigorMenz.HigorMenz" />
 
 <h1 align="center">
@@ -37,14 +38,12 @@
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<hr/>
+
 <div align="center">
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HigorMenz&theme=highcontrast&border_radius=3.8" alt="GitHub Streak" /></a>
     
 </div>
-<br/><br/>
-
 <hr/>
 
 
