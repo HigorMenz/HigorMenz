@@ -40,13 +40,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-HigorMenz.vercel.app/?user=HigorMenz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-HigorMenz.vercel.app/api?username=HigorMenz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-HigorMenz.vercel.app/api/top-langs/?username=HigorMenz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HigorMenz&theme=highcontrast&border_radius=3.8" alt="GitHub Streak" /></a>
 <br/><br/>
 
 <hr/>
