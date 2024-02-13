@@ -40,7 +40,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<a align="right" href="https://git.io/streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=HigorMenz&theme=highcontrast&border_radius=3.8" alt="GitHub Streak" /></a>
+<div align="center">
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HigorMenz&theme=highcontrast&border_radius=3.8" alt="GitHub Streak" /></a>
+    
+</div>
 <br/><br/>
 
 <hr/>
